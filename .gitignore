@@ -3,6 +3,8 @@
 *.exe
 *.out
 *.app
+
+# IDE Files
 /.idea/
 /CmakeLists.txt
 /cmake-build-debug/
