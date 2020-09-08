@@ -8,3 +8,4 @@
 /.idea/
 /CmakeLists.txt
 /cmake-build-debug/
+/.gitignore
